@@ -1,0 +1,13 @@
+.no-errors {
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 15px;
+    color: black;
+    background-color: rgba(82, 255, 29, 0.5);
+    box-shadow: 0 0 19px -12px black;
+    border-radius: 10px;
+    margin: 10px auto;
+    width: 100%;
+}

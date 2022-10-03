@@ -1,0 +1,18 @@
+.drug {
+    display: flex;
+    padding: 7px;
+    gap: 30px;
+    justify-content: center;
+    background-color: #f6f6f6;
+    align-items: center;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.drug-title {
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
